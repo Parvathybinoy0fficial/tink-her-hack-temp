@@ -9,7 +9,7 @@
 ### Team Name: [Name]
 
 ### Team Members
-- Member 1: [Name] - [College]
+- Member 1: [parvathy] - [College]
 - Member 2: [Name] - [College]
 
 ### Hosted Project Link
