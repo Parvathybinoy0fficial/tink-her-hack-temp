@@ -178,8 +178,9 @@ video demonstrates the working of how the digital daey website works
 
 ## Team Contributions
 
-- Parvathy Binoy – Project lead, backend development using Python, image processing with OpenCV, duplicate detection logic, and overall application integration.
-Nourin ms – Frontend development using Streamlit, UI design, dashboard creation, and user interaction handling.
+- Nourin M S – Project lead, backend development using Python, image processing with OpenCV, duplicate detection logic, and overall application integration.
+ Testing, debugging, documentation (README)
+-Parvathy binoy – Frontend development using Streamlit, UI design, dashboard creation, and user interaction handling.
  Testing, debugging, documentation (README), and project presentation/demo preparation.
 ## License
 
