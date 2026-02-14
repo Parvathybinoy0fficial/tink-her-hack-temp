@@ -14,6 +14,8 @@
 
 ### Hosted Project Link
 https://tink-her-hack-parvathybinoy0fficial.streamlit.app/
+User-admin
+password-1234
 
 ### Project Description
 Digital Decay is a Streamlit web app that scans local storage to find duplicate and blurry images, helping users clean digital clutter.
