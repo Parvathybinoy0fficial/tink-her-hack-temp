@@ -2,11 +2,11 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Digital Decay
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: BRAIN WAVE
 
 ### Team Members
 - Member 1: Nourin M S - Jyothi engineering college thrissur
@@ -116,10 +116,6 @@ Blurry Image Detection: Use OpenCV Laplacian method
 Storage & CO₂ Estimation: Calculate total size and potential carbon savings
 
 
-
-
----
-
 ## Additional Documentation
 
 ### For Web Projects with Backend:
@@ -158,9 +154,6 @@ Storage & CO₂ Estimation: Calculate total size and potential carbon savings
   "message": "Selected files deleted successfully"
 }
 
-[Add more endpoints as needed...]
-
-
 
 ## Project Demo
 
@@ -168,47 +161,13 @@ Storage & CO₂ Estimation: Calculate total size and potential carbon savings
 https://github.com/Parvathybinoy0fficial/tink-her-hack-temp/blob/main/Screen%20Recording%202025-12-14%20135226.mp4
 video demonstrates the working of how the digital daey website works
 
-### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
 
----
-
-## AI Tools Used (Optional - For Transparency Bonus)
-
-If you used AI tools during development, document them here for transparency:
-
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
-
-**Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
-- Example: "Code review and optimization suggestions"
-
-**Key Prompts Used:**
-- "Create a REST API endpoint for user authentication"
-- "Debug this async function that's causing race conditions"
-- "Optimize this database query for better performance"
-
-**Percentage of AI-generated code:** [Approximately X%]
-
-**Human Contributions:**
-- Architecture design and planning
-- Custom business logic implementation
-- Integration and testing
-- UI/UX design decisions
-
-*Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
-
----
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
-
----
-
+- Parvathy Binoy – Project lead, backend development using Python, image processing with OpenCV, duplicate detection logic, and overall application integration.
+Nourin ms – Frontend development using Streamlit, UI design, dashboard creation, and user interaction handling.
+ Testing, debugging, documentation (README), and project presentation/demo preparation.
 ## License
 
 This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LICENSE) file for details.
