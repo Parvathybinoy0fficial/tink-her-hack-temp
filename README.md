@@ -79,17 +79,16 @@ streamlit run app.py
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1]https://github.com/Parvathybinoy0fficial/tink-her-hack-temp/blob/main/Screenshot%202026-02-14%20075509.png
+Screenshot1-https://github.com/Parvathybinoy0fficial/tink-her-hack-temp/blob/main/Screenshot%202026-02-14%20075509.png
 
 login 
 user id
 
-![Screenshot2]<https://github.com/Parvathybinoy0fficial/tink-her-hack-temp/blob/main/Screenshot%202026-02-14%20075536.png
+Screenshot2-<https://github.com/Parvathybinoy0fficial/tink-her-hack-temp/blob/main/Screenshot%202026-02-14%20075536.png
 
 file pathway
                 
-
-![Screenshot3]https://github.com/Parvathybinoy0fficial/tink-her-hack-temp/blob/main/Screenshot%202026-02-14%20084002.png
+Screenshot3- https://github.com/Parvathybinoy0fficial/tink-her-hack-temp/blob/main/Screenshot%202026-02-14%20084002.png
 
 #### Diagrams
 
@@ -129,43 +128,6 @@ Blurry Image Detection: Use OpenCV Laplacian method
 Storage & CO₂ Estimation: Calculate total size and potential carbon savings
 
 
-## Additional Documentation
-
-### For Web Projects with Backend:
-
-#### API Documentation
-
-**Base URL:** **Base URL:** `http://localhost:8501`
-
-##### Endpoints
-
-**GET /api/endpoint**
-- **Description:** scan a folder for duplicate and blury images
-- **Parameters:**
-  - `param1` (string): folder_path (string): Path of the folder to scan
-  - `param2` (integer): [Description]
-- **Response:**
-{
-  "status": "success",
-  "data": {
-    "duplicates": 5,
-    "blurry": 3,
-    "storage_gb": 0.8,
-    "co2_kg": 0.4
-  }
-}
-
-**POST /api/endpoint**
-- **Description:** delete selected duplicate or blury files
-- **Request Body:**
-{
-  "files": ["file1.jpg", "file2.png"]
-}
-- **Response:**
-{
-  "status": "success",
-  "message": "Selected files deleted successfully"
-}
 
 
 ## Project Demo
@@ -180,17 +142,9 @@ video demonstrates the working of how the digital decay website works
 
 - Nourin M S – Project lead, backend development using Python, image processing with OpenCV, duplicate detection logic, and overall application integration.
  Testing, debugging, documentation (README)
+
+
+
+
 -Parvathy binoy – Frontend development using Streamlit, UI design, dashboard creation, and user interaction handling.
  Testing, debugging, documentation (README), and project presentation/demo preparation.
-## License
-
-This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LICENSE) file for details.
-
-**Common License Options:**
-- MIT License (Permissive, widely used)
-- Apache 2.0 (Permissive with patent grant)
-- GPL v3 (Copyleft, requires derivative works to be open source)
-
----
-
-Made with ❤️ at TinkerHub
