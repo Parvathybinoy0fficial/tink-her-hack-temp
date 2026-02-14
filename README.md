@@ -79,7 +79,7 @@ streamlit run app.py
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1]
+![Screenshot1]https://github.com/Parvathybinoy0fficial/tink-her-hack-temp/blob/main/Screenshot%202026-02-14%20075509.png
 
 login 
 user id
@@ -89,8 +89,7 @@ user id
 file pathway
                 
 
-![Screenshot3]![WhatsApp Image 2026-02-14 at 8 03 57 AM](https://github.com/user-attachments/assets/48347da2-2459-4dd4-bcc3-b10c01a97809)
-showing dashboard and graph with blurred images and duplicate images
+![Screenshot3]
 
 #### Diagrams
 
