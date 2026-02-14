@@ -94,9 +94,22 @@ file pathway
 #### Diagrams
 
 **System Architecture:**
-
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
+User Interface (UI)
+Streamlit frontend: login page, folder input, dashboard metrics, image views, buttons for deletion.
+Session Management
+Streamlit session_state: Tracks login status and selected files across interactions.
+File System Scanner
+os and pathlib: Reads folder contents, gets image file paths, file sizes, and metadata.
+Duplicate Detection Module
+hashlib: Computes MD5 hash of each image to identify duplicates.
+Blurry Image Detection Module
+OpenCV (cv2): Detects blur using Laplacian variance.
+Storage & CO₂ Estimation Module
+Calculates total image storage in GB and estimates CO₂ saved (storage_gb * 0.5 kg CO₂/GB).
+Visualization Module
+matplotlib + Streamlit: Shows bar charts (originals, duplicates, blurry), dashboard metrics.
+Action Module
+Allows user to delete single or multiple files (duplicates/blurry) using os.remove().
 
 **Application Workflow:**
 
