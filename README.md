@@ -165,9 +165,8 @@ Storage & CO₂ Estimation: Calculate total size and potential carbon savings
 ## Project Demo
 
 ### Video
-
-
-*Explain what the video demonstrates - key features, user flow, technical highlights*
+https://github.com/Parvathybinoy0fficial/tink-her-hack-temp/blob/main/Screen%20Recording%202025-12-14%20135226.mp4
+video demonstrates the working of how the digital daey website works
 
 ### Additional Demos
 [Add any extra demo materials/links - Live site, APK download, online demo, etc.]
