@@ -79,12 +79,12 @@ streamlit run app.py
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1]<img width="1920" height="1080" alt="Screenshot 2026-02-14 075509" src="https://github.com/user-attachments/assets/2ed51ad5-f088-4134-b876-ee6c1bad86c0" />
+![Screenshot1]
 
 login 
 user id
 
-![Screenshot2]<img ![WhatsApp Image 2026-02-14 at 8 21 28 AM](https://github.com/user-attachments/assets/2ace0470-df50-4ff1-ae7c-5b96198a10c5)
+![Screenshot2]<https://github.com/Parvathybinoy0fficial/tink-her-hack-temp/blob/main/Screenshot%202026-02-14%20075536.png
 
 file pathway
                 
